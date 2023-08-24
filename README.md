@@ -1,2 +1,2 @@
-# resume
-my portfolio webpage 
+ # resume
+my portfolio webpage.
